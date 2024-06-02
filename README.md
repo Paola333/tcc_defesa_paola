@@ -2,4 +2,4 @@
 
 Este é o meu incrível projeto Firebase!
 
-Link para o projeto: [Meu Projeto Firebase](https://soscleaning-844af.firebaseapp.com/__/auth/handler)
+Link para o projeto: [Meu Projeto Firebase](https://console.firebase.google.com/project/soscleaning-844af/overview?hl=pt)
